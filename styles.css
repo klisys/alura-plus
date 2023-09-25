@@ -99,3 +99,8 @@ body {
 .titulo2 {
   color: red;
 }
+
+.secundario__botao {
+  display: inline-block;
+  margin-top: 1em;
+}
