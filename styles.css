@@ -107,6 +107,6 @@ body {
 
 .dispositivos_titulo {
   text-align: center; 
-  text-size-adjust: 42px;
-  text-decoration-color: #5c4f79;
+  font-size: 42px;
+  color: #5c4f79;
 }
